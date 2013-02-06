@@ -1,0 +1,12 @@
+1. Automatically create "Unathorized" category.
+2. Add uncategorized product to unathorized category with all it properies
+3. Add images to products
+4. Make scopes for
+	a. popular products
+	b. new products
+	c. new products in category
+5. add reorder function for product properties
+6. add ability for hiding some properties in product in category and open it automatically whan prodect detailed view activated
+7. Make controllers
+8. Make views
+		e.t.c.
