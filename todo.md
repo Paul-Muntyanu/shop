@@ -1,5 +1,5 @@
-1. Automatically create "Unathorized" category.
-2. Add uncategorized product to unathorized category with all it properties
+1. Automatically create "Unauthorized" category.
+2. Add uncategorized product to unauthorized category with all it properties
 3. Add images to products
 4. Make scopes for
 	a. popular products
